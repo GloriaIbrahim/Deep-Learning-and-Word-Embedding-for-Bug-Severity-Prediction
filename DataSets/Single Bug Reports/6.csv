@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1229738,Cloud Services,telemetri aggreg start fail st decemb ,telemetri aggreg start fail st decemb old dev new dev s due appli recent new dev error cryptic chang data mark recent affect aggreg ,Metrics: Pipeline,P1,rvitillo,rvitillo rvitillo mreid rvitillo rvitillo whd ,FIXED,blocker

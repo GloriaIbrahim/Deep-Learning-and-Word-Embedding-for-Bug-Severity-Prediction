@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1234708,SeaMonkey,sea puppet low disk space ,due chang addit larg packag ad sea puppet callek believ s relat bug sea puppet extrem low disk space prcoess leav linux slave unabl run connect buildbot master up major blocker releas ,Release Engineering,--,nobody,ewong bugspam.Callek bugspam.Callek ,FIXED,blocker
