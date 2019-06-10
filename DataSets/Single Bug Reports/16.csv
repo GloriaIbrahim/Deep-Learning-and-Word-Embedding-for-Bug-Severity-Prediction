@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1214870,Calendar,event dialog remov attach fail typeerror child undefin ,thunderbird a lightn a step reproduc creat event edit event add web page attach open context menu attach field bottom dialog choos remov context menu confirm messag box remov attach actual result attach remov error consol show error typeerror child undefin sourc file chrome calendar content calendar event dialog j line ,Dialogs,--,bv1578,ssitter bv1578 philipp bv1578 aleth mschroeder ,FIXED,minor

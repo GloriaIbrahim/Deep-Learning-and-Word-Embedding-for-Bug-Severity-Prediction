@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1221235,Firefox for iOS,hang clear privat data ,build d launch browser set clear privat data hang ,Data Storage,--,rnewman,aaron.train aaron.train rnewman rnewman rnewman rnewman rnewman sleroux rnewman ,FIXED,critical

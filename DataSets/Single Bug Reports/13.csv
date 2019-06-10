@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1207514,Cloud Services,http ftp mozilla org http favicon mix content ,str open tab open consol ctrl shift k past http ftp mozilla org quot locat bar press enter result consol load mix insecur content ident block urlbar display mix content leav unconfirm product compon ,Operations,--,oremj,arni2033 oremj ,FIXED,trivial

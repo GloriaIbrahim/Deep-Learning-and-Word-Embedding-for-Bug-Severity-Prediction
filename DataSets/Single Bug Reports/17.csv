@@ -1,0 +1,2 @@
+﻿bug ID,product,summary,description,component,priority,unknown_1,unknown_2,resolution,severity
+1219502,Instantbird,build failur traytoolkit cpp error getdocu member nsidomwindow ,creat attach patch build fail today window linux due bug ,Other,--,florian,florian aleth florian ,FIXED,blocker
